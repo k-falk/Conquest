@@ -1,0 +1,9 @@
+mysql:
+  url: jdbc:mysql://localhost/minecraft_server
+  user: root
+  pass: password
+Settings:
+#Insert configurable settings
+  conquest-time-in-seconds: 20
+  rewards-period-in-seconds: 5
+  minimum-online-players: 1

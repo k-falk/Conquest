@@ -1,0 +1,8 @@
+main: com.mcconquest.conquest.Conquest
+name: Conquest
+version: 1.0
+author: Kleenx
+commands:
+   cq:
+      description: Create, Delete and Conquest!
+      usage: /<cq> [create, delete]
