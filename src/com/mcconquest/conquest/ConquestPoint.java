@@ -45,12 +45,12 @@ public class ConquestPoint {
 		this.loaded = false;
 		}
 		
-	   /* private void ensureLoaded()
+	    private void ensureLoaded()
 	    {
 	        if(!this.isLoaded()) {
 	            throw new IllegalStateException("ConquestPoint " + this.getName() + " is not loaded");
 	        }
-	    }*/
+	    }
 
 	    public void load(final Runnable callback)
 	    {
