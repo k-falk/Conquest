@@ -107,6 +107,8 @@ public class ConquestPoint {
 	            }
 	        });
 	    }
+	
+	//Saves to server SQL database
 	    public void save(boolean async)
 	    {
 	      //  this.ensureLoaded();
